@@ -17,13 +17,13 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  * Visual studio code.<br /><br />
  # SKILLS🤖<br />
  * Android Developer.<br />
- * C,C++,Java[Click me](https://www.hackerearth.com/@shivam3581).<br /><br />
+ * C,C++,Java. [Click me](https://www.hackerearth.com/@shivam3581)<br /><br />
  # INTERESTS<br />
  * Cybersecurity.<br />
- * To become part of Google Summer of Code aka GSOC. [link](https://summerofcode.withgoogle.com/).<br />
+ * To become part of Google Summer of Code aka GSOC[link](https://summerofcode.withgoogle.com/).<br />
  * Working hard to avail the opportunity to become [Microsoft Learn
-   Student Ambassadors](https://studentambassadors.microsoft.com/)of my college.<br />
- * Another interest lies with Developer student club lead role as of now I am learning the etiquette.<br /><br />
+   Student Ambassadors](https://studentambassadors.microsoft.com/) of my college.<br />
+ * Another interest lies with Developer student club lead role as of now, I am learning the etiquette.<br /><br />
  # ROLES<br />
  * LEAD for my Guild "FET-JU" on the event called [Local Host Day: BUILD](https://localhackday.mlh.io/build) hosted by [MLH](https://mlh.io/).<br />
  * Making a huge community in college for introducing great culture to our campus.<br />
@@ -31,7 +31,7 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  # PROJECTS<br />
  * I made a small app called SherLocking[take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
  * updating soon.....<br /><br />
- # CONNECT WITH ME<br />
+ # CONNECT WITH ME👨‍💻<br />
  * GitHub [Profile](https://github.com/thisisshivamgupta)<br />
  * LinkedIn [Profile](https://www.linkedin.com/in/thisisshivamgupta/)<br />
  * HackerEarth [Profile](https://www.hackerearth.com/@shivam3581)<br />
