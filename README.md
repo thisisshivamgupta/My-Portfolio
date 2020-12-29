@@ -1,4 +1,4 @@
-<h1>Shivam Gupta</h1><br />
+<h1>Shivam Gupta</h1>Hey Folks!👋<br />
 Let me introduce myself.
 Presently I am 2rd year student at 
 [Jain University.](https://www.jainuniversity.ac.in/)<br />
@@ -9,15 +9,15 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  * Under GitHub student developer pack.<br />
  * Active student member of [Computer Society of India](http://csi-india.org.in/)<br />
  * Student at HackerEarth, [Check out!](https://www.hackerearth.com/@shivam3581)<br /><br />
- # TOOLS<br />
+ # TOOLS⚙<br />
  * Git & GitHub.<br />
  * Android studio.<br />
  * Intellij Iddea.<br />
  * Visual studio code.<br /><br />
- # SKILLS<br />
+ # SKILLS🤖<br />
  * Android Developer.<br />
  * C,C++,Java[Click me](https://www.hackerearth.com/@shivam3581).<br /><br />
- # INTERESTS <br />
+ # INTERESTS<br />
  * Cybersecurity.<br />
  * To become part of Google Summer of Code aka GSOC. [link](https://summerofcode.withgoogle.com/).<br />
  * Working hard to avail the opportunity to become [Microsoft Learn
