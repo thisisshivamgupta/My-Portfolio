@@ -3,6 +3,7 @@ Let me introduce myself.
 Presently I am 2rd year student at 
 [Jain University.](https://www.jainuniversity.ac.in/)<br />
 Till now I have maintained my SGPA of 8.8(Average).<br />
+![](img align="right" width="200" height="200" src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/IMG_00200.2546.jpg?raw=true/200/200")
 <img align="right" width="200" height="200" src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/IMG_00200.2546.jpg?raw=true/200/200">
  # ACTIVITIES<br />
  * Active memeber of Developer student club, community name FET-JU.<br />
