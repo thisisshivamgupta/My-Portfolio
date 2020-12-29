@@ -1,9 +1,9 @@
 <h1>Shivam Gupta</h1><br />
 Let me introduce myself.
-<img align="right" width="600" height="400" src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/IMG_0020.JPG?raw=true/600/400">
 Presently I am 2rd year student at 
 [Jain University.](https://www.jainuniversity.ac.in/)<br />
-Till now I have maintained my SGPA of 8.9(Average).<br />
+Till now I have maintained my SGPA of 8.8(Average).<br />
+<img align="right" width="200" height="200" src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/IMG_00200.2546.jpg?raw=true/200/200">
  # ACTIVITIES<br />
  * Active memeber of Developer student club, community name [FET-JU]().<br />
  * Under GitHub student developer pack.<br />
