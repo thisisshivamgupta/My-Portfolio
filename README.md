@@ -5,6 +5,13 @@ Presently I am 2rd year student at
 Till now I have maintained my SGPA of 8.8(Average).<br />
 ![](img align="right" width="200" height="200" src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/IMG_00200.2546.jpg?raw=true/200/200")
 <img align="right" width="200" height="200" src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/IMG_00200.2546.jpg?raw=true/200/200">
+ # CONNECT 👨‍💻<br />
+ * GitHub [Profile](https://github.com/thisisshivamgupta)<br />
+ * LinkedIn [Profile](https://www.linkedin.com/in/thisisshivamgupta/)<br />
+ * HackerEarth [Profile](https://www.hackerearth.com/@shivam3581)<br />
+ * Twitter [Profile](https://twitter.com/itisshivamgupta)<br />
+ * Instagram [Profile](https://www.instagram.com/thisisshivamgupta/)<br />
+ * Facebook [Profile](https://www.facebook.com/profile.php?id=100009093001766)<br />
  # ACTIVITIES<br />
  * Active memeber of Developer student club, community name FET-JU.<br />
  * Under GitHub student developer pack.<br />
@@ -31,10 +38,3 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  # PROJECTS<br />
  * I made a small app called SherLocking[take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
  * updating soon.....<br /><br />
- # CONNECT WITH ME👨‍💻<br />
- * GitHub [Profile](https://github.com/thisisshivamgupta)<br />
- * LinkedIn [Profile](https://www.linkedin.com/in/thisisshivamgupta/)<br />
- * HackerEarth [Profile](https://www.hackerearth.com/@shivam3581)<br />
- * Twitter [Profile](https://twitter.com/itisshivamgupta)<br />
- * Instagram [Profile](https://www.instagram.com/thisisshivamgupta/)<br />
- * Facebook [Profile](https://www.facebook.com/profile.php?id=100009093001766)<br />
