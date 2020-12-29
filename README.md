@@ -5,7 +5,7 @@ Presently I am 2rd year student at
 Till now I have maintained my SGPA of 8.8(Average).<br />
 <img align="right" width="200" height="200" src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/IMG_00200.2546.jpg?raw=true/200/200">
  # ACTIVITIES<br />
- * Active memeber of Developer student club, community name [FET-JU]().<br />
+ * Active memeber of Developer student club, community name FET-JU.<br />
  * Under GitHub student developer pack.<br />
  * Active student member of [Computer Society of India](http://csi-india.org.in/)<br />
  * Student at HackerEarth, [Check out!](https://www.hackerearth.com/@shivam3581)<br /><br />
