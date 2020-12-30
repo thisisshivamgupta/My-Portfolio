@@ -25,7 +25,7 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  * Visual studio code.<br /><br />
  # SKILLS🤖<br />
  * Android Development.<br />
- * C,C++,Java. [Click me](https://www.hackerearth.com/@shivam3581)<br /><br />
+ * C,C++,Java. [Click me!](https://www.hackerearth.com/@shivam3581)<br /><br />
  # INTERESTS & GOAL🎯<br />
  * Cybersecurity.<br />
  * To become part of Google Summer of Code aka GSOC [link](https://summerofcode.withgoogle.com/).<br />
@@ -38,5 +38,5 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  * Making a huge community in college for introducing great culture to our campus.<br />
  * Owner of OctoPet server on Discord.<br /><br />
  # PROJECTS🏆<br />
- * I made a small app called SherLocking[take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
+ * I made a small app called SherLocking [take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
  * updating soon.....<br /><br />
