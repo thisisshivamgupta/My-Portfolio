@@ -3,8 +3,10 @@ Let me introduce myself.
 Presently I am 2rd year student at 
 [Jain University.](https://www.jainuniversity.ac.in/)<br />
 Till now I have maintained my SGPA of 8.8(Average).<br />
-![](IMG_0020.JPG)<br /><br />
- # CONNECT 👨‍💻<br />
+
+<img src="IMG_0020.JPG"><br /><br />
+
+<br /># CONNECT 👨‍💻<br />
  * GitHub [Profile](https://github.com/thisisshivamgupta)<br />
  * LinkedIn [Profile](https://www.linkedin.com/in/thisisshivamgupta/)<br />
  * HackerEarth [Profile](https://www.hackerearth.com/@shivam3581)<br />
