@@ -1,6 +1,6 @@
 <h1>Shivam Gupta</h1>Hey Folks!👋<br />
 Let me introduce myself.
-Presently I am 2rd year student at 
+Presently I am a 2rd year student at 
 [Jain University.](https://www.jainuniversity.ac.in/)<br />
 Till now I have maintained my SGPA of 8.8(Average).<br />
 
