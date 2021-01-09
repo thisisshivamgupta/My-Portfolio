@@ -40,7 +40,7 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  # PROJECTS🏆<br />
  * I made a small app called SherLocking [take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
  * updating soon.....<br /><br />
- # EARNED SWAGS🎖
- * <img src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/Swag%231.jpeg" width="300" align="left"><br />
+ # EARNED SWAGS🎖<br />
+ * <img src="https://github.com/thisisshivamgupta/My-Portfolio/blob/main/Swag%231.jpeg" width="300" align="left">
  
   
