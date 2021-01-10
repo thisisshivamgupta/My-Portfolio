@@ -1,7 +1,8 @@
+<link rel="shortcut icon" type="IMG_0020.JPG" href="favicon.ico?">
 <h1>Shivam Gupta</h1>Hey Folks!👋<br />
 Let me introduce myself.
 Presently I am a 2rd year student at 
-[Jain University.](https://www.jainuniversity.ac.in/)<br />
+[Jain University](https://www.jainuniversity.ac.in/).<br />
 Till now I have maintained my SGPA of 8.8(Average).<br />
 
 <img src="IMG_0020.JPG" width="300" align="right"><br />
