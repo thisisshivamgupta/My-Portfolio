@@ -32,7 +32,7 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  * To become part of Google Summer of Code aka GSOC [link](https://summerofcode.withgoogle.com/).<br />
  * Working hard to avail the opportunity to become [Microsoft Learn
    Student Ambassadors](https://studentambassadors.microsoft.com/) of my college.<br />
- * Learning with perfection at [MICROSOFT LEARN.](https://docs.microsoft.com/en-us/users/shivamgupta-6037/)
+ * Learning with perfection at [MICROSOFT LEARN.](https://docs.microsoft.com/en-us/users/shivamgupta-0695/)
  * Another interest lies with Developer student club lead role as of now, I am learning the etiquette.<br /><br />
  # ROLES🕹<br />
  * LEAD for my Guild "FET-JU" on the event called [Local Host Day: BUILD](https://localhackday.mlh.io/build) hosted by [MLH](https://mlh.io/).<br />
