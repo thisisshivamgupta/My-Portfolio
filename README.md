@@ -5,7 +5,7 @@ Presently I am a 2rd year student at
 [Jain University](https://www.jainuniversity.ac.in/).<br />
 Till now I have maintained my SGPA of 8.8(Average).<br />
 
-<img src="IMG_0020.JPG" width="300" align="right"><br />
+<img src="badge.png" width="300" align="right"><br />
 
  # CONNECT 👨‍💻
  * GitHub [Profile](https://github.com/thisisshivamgupta)<br />
