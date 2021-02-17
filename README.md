@@ -36,8 +36,8 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  * Another interest lies with Developer student club lead role as of now, I am learning the etiquette.<br /><br />
  # ROLES🕹<br />
  * LEAD for my Guild "FET-JU" on the event called [Local Host Day: BUILD](https://localhackday.mlh.io/build) hosted by [MLH](https://mlh.io/).<br />
- * Making a huge community in college for introducing great culture to our campus.<br />
- * Owner of OctoPet server on Discord.<br /><br />
+ * Making a great community in my university for introducing great culture to our campus.<br />
+ * Admin of OctoChat server on Discord.<br /><br />
  # PROJECTS🏆<br />
  * I made a small app called SherLocking [take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
  * updating soon.....<br /><br />
