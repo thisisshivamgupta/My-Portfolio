@@ -39,7 +39,8 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  * Making a great community in my university for introducing great culture to our campus.<br />
  * Admin of OctoChat server on Discord.<br /><br />
  # PROJECTS🏆<br />
- * I made a small app called SherLocking [take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
+ * Discord Bot for university community [take a look](https://github.com/thisisshivamgupta/TycoonBETA-Discord-Bot).<br />
+ * Android app SherLocking [take a look](https://github.com/thisisshivamgupta/SherLocking).<br />
  * updating soon.....<br /><br />
  # EARNED SWAGS🎖<br />
  * <img src="Swag%231.jpeg" width="300" align="left">
