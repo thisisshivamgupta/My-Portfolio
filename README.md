@@ -22,6 +22,7 @@ Till now I have maintained my SGPA of 8.8(Average).<br />
  # TOOLS⚙<br />
  * Git & GitHub.<br />
  * Android studio.<br />
+ * Discord API.<br />
  * Intellij Idea.<br />
  * Visual studio code.<br /><br />
  # SKILLS🤖<br />
